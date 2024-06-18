@@ -34,6 +34,10 @@ class MainActivity : ComponentActivity() {
         setContent { MySootheApp() }
     }
 }
+// change that should not cancel the build in circleci
+// with auto-cancel redundancy off
+// concurrent build run change in test branch
+//another change
 // some change
 // Step: Search bar - Modifiers
 @Composable
