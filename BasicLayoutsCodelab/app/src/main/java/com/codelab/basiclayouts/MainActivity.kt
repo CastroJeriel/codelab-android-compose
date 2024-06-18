@@ -34,6 +34,7 @@ class MainActivity : ComponentActivity() {
         setContent { MySootheApp() }
     }
 }
+// change without auto-cancel redundancy
 // some change
 // Step: Search bar - Modifiers
 @Composable
