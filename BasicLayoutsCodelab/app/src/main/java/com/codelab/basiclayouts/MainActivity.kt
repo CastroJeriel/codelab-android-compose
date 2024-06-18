@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
         setContent { MySootheApp() }
     }
 }
-
+// some change
 // Step: Search bar - Modifiers
 @Composable
 fun SearchBar(
